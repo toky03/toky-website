@@ -85,7 +85,7 @@ tocopen = false
   hiddenInSingle = false
 
   [params.editPost]
-  URL = "https://github.com/toky03/toky-website/content"
+  URL = "https://github.com/toky03/toky-website/"
   Text = "Suggest Changes"
   appendFilePath = true
 
